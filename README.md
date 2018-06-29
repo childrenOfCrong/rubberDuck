@@ -20,18 +20,18 @@ rubber Duck Study
 
 #### reference 
 
-[프론트엔드_인터뷰_핸드북](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/README.md)
-[front-end-handbook-2018](https://frontendmasters.com/books/front-end-handbook/2018/)
-[신입프론트엔드_면접질문](https://taegon.kim/archives/5770)
-[프론트엔드_면접_은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
-[essential_js_interview_qna](https://www.toptal.com/javascript/interview-questions)
-[10_interview_questions_you_should_know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [프론트엔드_인터뷰_핸드북](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/README.md)
+* [front-end-handbook-2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+* [신입프론트엔드_면접질문](https://taegon.kim/archives/5770)
+* [프론트엔드_면접_은행](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
+* [essential_js_interview_qna](https://www.toptal.com/javascript/interview-questions)
+* [10_interview_questions_you_should_know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 
 #### 찾아보기 좋은 사이트들 
 
 
-[mdn](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-[poiemaweb](https://poiemaweb.com/)
-[toast](http://meetup.toast.com/)
-[freeCodeCamp](https://guide.freecodecamp.org/javascript/)
+* [mdn](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+* [poiemaweb](https://poiemaweb.com/)
+* [toast](http://meetup.toast.com/)
+* [freeCodeCamp](https://guide.freecodecamp.org/javascript/)
