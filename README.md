@@ -13,9 +13,9 @@ rubber Duck Study
 ### 3회차 KeyWord Prototype
 
 
-개선점: 인터뷰 예제를 참고해서 질문을 구성하자
-주제: prototype
-시간: 미정(목요일 또는 금요일) 
+* 개선점: 인터뷰 예제를 참고해서 질문을 구성하자
+* 주제: prototype
+* 시간: 미정(목요일 또는 금요일) 
 
 
 #### reference 
