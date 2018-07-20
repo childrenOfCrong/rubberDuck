@@ -6,19 +6,23 @@ rubber Duck Study
 
 나온 질문들:D
 
+---
+
 ### 2회차 KeyWord Execution-context
 
 나온 질문들 :D 
 
-### 3회차 KeyWord Prototype
+---
 
+### 3회차 KeyWord Prototype
 
 * 개선점: 인터뷰 예제를 참고해서 질문을 구성하자
 * 주제: prototype
 * 시간: 미정(목요일 또는 금요일) 
 
-### 4회차 KeyWord Prototype
+---
 
+### 4회차 KeyWord Prototype
 
 * 개선점: 인터뷰 예제를 참고해서 질문을 구성하자
 * 주제: prototype
@@ -31,9 +35,9 @@ rubber Duck Study
 4. prototype 을 이용하여 instance 생성과 코드를 재사용하는 방식을 코드를 적어 설명해보기 [참고 toast meetup](http://meetup.toast.com/posts/104)
 * ETC -> 기존 class기반 언어와 prototype언어와의 차이점 장단점 
 
+---
 
 ### 5회차 KeyWord Arrow function
-
 
 * 개선점: 
 1. github-wiki에 자신이 정리한 자료 올리기(선택) > 틀린자료 있으면 수정해주기 
@@ -47,6 +51,7 @@ rubber Duck Study
 2. function과 arrow function을 사용하는 자신만의 기준은 무엇인가요?
 3. addEventListener 함수의 콜백 함수를 화살표 함수로 정의하면 this 는 어디를 가르키는가? 
 
+---
 
 ### 6회차 KeyWord Network
 
@@ -61,7 +66,7 @@ rubber Duck Study
 3. http의 get방식과 post방식에 대해 설명하세요
 4. 각 계층마다 왜 헤더가 있는지
 
-
+---
 
 
 
