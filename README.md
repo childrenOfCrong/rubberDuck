@@ -82,6 +82,12 @@ rubber Duck Study
 ---
 
 
+### 8회차 KeyWord 스코프와 클로저 
+
+* 시간: 0921 16:00
+
+---
+
 
 #### reference 
 
