@@ -95,7 +95,43 @@ rubber Duck Study
 5. 클로저 정의/클로저 프로젝트에서 어떻게 활용했는지
 
 ---
-### 9회차 KeyWord 실행컨텍스트
+### 9회차 KeyWord : 실행컨텍스트(Execute Context, EC)
+
+* 시간: 0928 16:00-17:00
+
+나온 질문들 
+1. 실행컨텍스트 개념과 실행컨텍스트가 실행될 때 필요한 정보들은 어떤 형태? 어떤 것들이 담기는지 아는데로 설명해보시오
+2. 스코프 체인은 실행컨텍스트를 어떻게 활용하는지 그 과정에 대해서 설명해보시오
+3. 아래 코드에서 'use strict'가 있을 때, 없을 때의 결과의 차이가 생기는 이유는?
+```javascript
+// "use strict";
+
+let person = {
+  name: ‘peter’,
+  birthYear: 1994,
+  calcAge: function() {
+    console.log(2018 - this.birthYear);
+ }
+};
+
+person.calcAge(); // ?
+
+let calculateAge = person.calcAge;
+
+calculateAge(); // ?
+```
+
+---
+### 10회차 KeyWord : this
+
+* 시간: 
+
+나온 질문들 
+1.
+2.
+
+
+---
 
 #### reference 
 
