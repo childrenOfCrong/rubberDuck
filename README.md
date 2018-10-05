@@ -124,12 +124,43 @@ calculateAge(); // ?
 ---
 ### 10회차 KeyWord : this
 
+* 시간: 1005 16:00-17:00
+
+나온 질문들 
+1. 객체 리터럴과 생성자 함수의 차이점은?
+2. 객체 리터럴이 아닌 생성자함수를 써야 하는 상황은?
+3. 비동기 함수안에서의 this가 가리키는 것과 그 이유는?
+4. 렉시컬 스코프와 this의 생성방식 차이점은?
+5. 아래 코드에서 각 호출 방식에 따른 바인딩 우선순위에 따른 결과값은?
+
+```javascript
+// 명시적 바인딩과 new 바인딩의 우선순위
+
+function hello(name) {
+  this.name = name
+}
+
+var obj1 = {
+};
+
+var helloFn = hello.bind(obj1);
+
+helloFn(‘hello’);
+
+var obj2 = new helloFn(‘world’);
+
+console.log(obj1.name); // ?
+console.log(obj2.name); // ?
+```
+
+---
+### 11회차 KeyWord : OOP(Object-oriented programming)
+
 * 시간: 
 
 나온 질문들 
-1.
-2.
-
+1. 
+2. 
 
 ---
 
