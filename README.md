@@ -156,7 +156,8 @@ console.log(obj2.name); // ?
 ---
 ### 11회차 KeyWord : OOP(Object-oriented programming)
 
-* 시간: 
+* 시간: 1012 16:30-18:00
+
 
 나온 질문들 이라기보다 같이 공부
 1. OOP의 특성 캡슐화, 추상화, 상속, 다형성 ...
