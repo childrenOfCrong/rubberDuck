@@ -158,12 +158,25 @@ console.log(obj2.name); // ?
 
 * 시간: 
 
-나온 질문들 
-1. 
-2. 
+나온 질문들 이라기보다 같이 공부
+1. OOP의 특성 캡슐화, 추상화, 상속, 다형성 ...
+2. super접근 가능한 부분 같이 확인  
+3. JS class에서 상속 어떻게 구현하나
+
+* [JS_객체지향](https://developer.mozilla.org/ko/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* [클래스_생성자함수_차이](https://gomugom.github.io/is-class-only-a-syntactic-sugar/)
 
 ---
 
+
+---
+### 12회차 KeyWord : Promise & Async Awiat 비동기 처리
+
+* 시간: 10.19 16:00 예정
+
+
+
+---
 #### reference 
 
 * [프론트엔드_인터뷰_핸드북](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/README.md)
