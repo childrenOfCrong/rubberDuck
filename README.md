@@ -173,9 +173,21 @@ console.log(obj2.name); // ?
 ---
 ### 12회차 KeyWord : Promise & Async Awiat 비동기 처리
 
-* 시간: 10.19 16:00 예정
+* 시간: 10.26 17:00
 
+나온 질문들
+1. JS비동기 처리 어떻게 동작하는지
+2. Error핸들링 처리 어떻게 하는지
+3. 어떤 상황에서 제너레이터로 이터레이터를 만드는지
+4. 제너레이터를 사용할 때 주의해야 할 점
 
+* [제너레이터 강의](https://www.youtube.com/watch?v=82UuFxh7wKc&index=5&list=PLBNdLLaRx_rIF3jAbhliedtfixePs5g2q)
+---
+
+---
+### 12회차 KeyWord : css & javascript 애니메이션 차이
+
+* 시간: 11.02 16:00 예정
 
 ---
 #### reference 
