@@ -189,6 +189,18 @@ console.log(obj2.name); // ?
 
 * 시간: 11.02 16:00 예정
 
+1. [비센스 애니메이션 구현](https://codepen.io/pdvonzoo/pen/qQWRRz)
+2. [달리 애니메이션 구현](https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation_count)
+---
+
+---
+### 13회차 KeyWord : css & javascript 애니메이션 차이 두번째
+
+* 시간: 11.16 16:00 예정
+
+
+
+
 ---
 #### reference 
 
