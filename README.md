@@ -202,7 +202,7 @@ console.log(obj2.name); // ?
 2. [달리 애니메이션 구현 2](https://codesandbox.io/s/m5xv21v2w9)
 3. [비센스 애니메이션 ](https://codepen.io/pdvonzoo/pen/jQwYvY)
 
-* [제너레이터 강의](https://louisansa.com/projects)
+
 ---
 ---
 ### 14회차 KeyWord : Http
